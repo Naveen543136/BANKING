@@ -1,0 +1,41 @@
+body {
+        font-family: Arial, sans-serif;
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+    
+    h1 {
+        color: hwb(0 7% 18%);
+    }
+    
+    form {
+        margin-bottom: 20px;
+    }
+    
+    button {
+        background-color: #4CAF50;
+        color: hsl(0, 61%, 28%);
+        padding: 10px 20px;
+        border: none;
+        cursor: pointer;
+    }
+    
+    button:hover {
+        background-color: hsl(123, 80%, 51%);
+    }
+    
+    a {
+        display: block;
+        margin-top: 10px;
+        color: #007BFF;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        text-decoration: underline;
+    }
+    h2{
+        background-color:hsl(0, 80%, 37%) ;
+        
+    }
